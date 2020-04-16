@@ -1,6 +1,8 @@
 # 01 HTML CSS Git: Code Refactor
 
-Using extisting "index.html" and "style.css" cleaned and consolidated the code for the client, Horiseon.
+Using extisting "index.html" and "style.css" elements I was able to streamline the code for the client, Horiseon. 
+
+Many of the "CSS" elements were redunant, therefore they were condensed. In html, tags were put in the same order. See below for further details. 
 
 HTML CHANGES
 <head>
