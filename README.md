@@ -2,7 +2,7 @@
 
 Using extisting "index.html" and "style.css" elements I was able to streamline the code for the client, Horiseon. 
 
-Many of the "CSS" elements were redunant, therefore they were condensed. In html, tags were put in the same order. See below for further details. 
+Many of the "CSS" elements were redunant, therefore they were condensed. In html, tags were put in the same order. See below for further details. Additionally, a style sheet called "reset" was added. This document will allow the webpage to have standard formatting across all browsers.
 
 HTML CHANGES
 <head>
